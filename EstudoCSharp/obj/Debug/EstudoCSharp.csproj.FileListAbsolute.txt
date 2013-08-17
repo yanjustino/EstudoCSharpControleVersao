@@ -1,2 +1,7 @@
 e:\projetos\EstudoCSharp\EstudoCSharp\bin\Debug\EstudoCSharp.exe.config
 E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\bin\Debug\EstudoCSharp.exe.config
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\bin\Debug\EstudoCSharp.exe
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\bin\Debug\EstudoCSharp.pdb
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\obj\Debug\EstudoCSharp.csprojResolveAssemblyReference.cache
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\obj\Debug\EstudoCSharp.exe
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\obj\Debug\EstudoCSharp.pdb

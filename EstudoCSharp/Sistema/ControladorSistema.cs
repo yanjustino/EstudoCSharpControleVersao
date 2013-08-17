@@ -1,6 +1,6 @@
 ﻿
 using System;
-namespace EstudoCSharp
+namespace EstudoCSharp.Sistema
 {
     /*
      * Classe Sistema implementada no arquivo Sistema.java
@@ -33,6 +33,7 @@ namespace EstudoCSharp
              * abaixo do método Main
              */
             MensagemDaVersaoDoSistema(sistema);
+            Console.Read();
         }
 
         /*

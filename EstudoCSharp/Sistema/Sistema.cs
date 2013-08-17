@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EstudoCSharp
+namespace EstudoCSharp.Sistema
 {
     public class Sistema
     {
