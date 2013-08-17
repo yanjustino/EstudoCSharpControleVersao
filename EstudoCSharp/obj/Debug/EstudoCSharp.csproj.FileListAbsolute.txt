@@ -1,0 +1,2 @@
+e:\projetos\EstudoCSharp\EstudoCSharp\bin\Debug\EstudoCSharp.exe.config
+E:\Projetos\EstudoCSharp\EstudoCSharpControleVersao\EstudoCSharp\bin\Debug\EstudoCSharp.exe.config
